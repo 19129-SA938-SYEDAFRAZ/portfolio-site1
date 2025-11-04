@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2020,
+    "title": "Started Learning Programming",
+    "details": "Began exploring Python and web development basics through online courses and small coding challenges.",
+    "achievements": [
+      "Completed Python fundamentals course",
+      "Built first command-line applications",
+      "Learned HTML, CSS, and JavaScript basics",
+      "Started contributing to open-source projects"
+    ],
+    "technologies": ["Python", "HTML", "CSS", "JavaScript", "Git"]
+  },
+  {
+    "year": 2021,
+    "title": "Built First Web App",
+    "details": "Created a basic web app using Flask and React to track learning progress. Learned about REST APIs and frontend integration.",
+    "achievements": [
+      "Developed full-stack web application",
+      "Mastered REST API design principles",
+      "Learned React component architecture",
+      "Deployed first application to production"
+    ],
+    "technologies": ["Flask", "React", "PostgreSQL", "REST APIs", "Docker"]
+  },
+  {
+    "year": 2022,
+    "title": "Explored NLP and AI",
+    "details": "Experimented with text classification, named entity recognition, and chatbot development using Hugging Face Transformers.",
+    "achievements": [
+      "Built multiple NLP projects",
+      "Fine-tuned transformer models",
+      "Completed machine learning specialization",
+      "Won hackathon with AI-powered chatbot"
+    ],
+    "technologies": ["Transformers", "PyTorch", "TensorFlow", "NLTK", "spaCy", "scikit-learn"]
+  },
+  {
+    "year": 2023,
+    "title": "Internship in AI Engineering",
+    "details": "Worked on developing NLP pipelines, fine-tuning transformer models, and integrating APIs into scalable backend systems.",
+    "achievements": [
+      "Developed production NLP pipelines",
+      "Improved model accuracy by 15%",
+      "Built analytics dashboard for 10k+ users",
+      "Mentored junior developers"
+    ],
+    "technologies": ["FastAPI", "Hugging Face", "Redis", "Kubernetes", "MLflow", "Chart.js"]
+  },
+  {
+    "year": 2024,
+    "title": "Developed AI Portfolio Project",
+    "details": "Created an AI-powered interactive portfolio website using RAG (Retrieval-Augmented Generation) and open-source models.",
+    "achievements": [
+      "Built full RAG pipeline with vector search",
+      "Integrated LLM for conversational AI",
+      "Created interactive knowledge graph visualization",
+      "Designed project explorer with scoped chat"
+    ],
+    "technologies": ["Next.js", "FastAPI", "ChromaDB", "Gemini API", "Cytoscape.js", "Tailwind CSS"]
+  }
+]
