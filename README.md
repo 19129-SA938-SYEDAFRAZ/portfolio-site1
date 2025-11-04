@@ -2,14 +2,24 @@
 
 An interactive portfolio powered by RAG (Retrieval-Augmented Generation) and knowledge graphs. Ask questions about projects, skills, and experience through natural language.
 
-## 🚀 Features
+---
 
-- **AI Chat Interface**: Ask questions about projects and experience
-- **Knowledge Graph**: Interactive visualization of skills and projects
-- **RAG-Powered**: Retrieves relevant context from portfolio data
-- **Free & Open Source**: Uses Hugging Face models and open-source tools
+## 📖 Overview
 
-## 📁 Project Structure
+### What is This?
+
+This is an AI-powered portfolio website that allows visitors to interact with your professional information through natural language. Instead of static pages, users can ask questions like "What projects have you built?" or "Tell me about your AI experience" and get intelligent, context-aware responses.
+
+### ✨ Key Features
+
+- **AI Chat Interface**: Natural language Q&A about projects, skills, and experience
+- **RAG-Powered Responses**: Retrieves relevant context from portfolio data using vector search
+- **Knowledge Graph Visualization**: Interactive graph showing relationships between projects, skills, and experiences
+- **Conversational Timeline**: Explore career history through chat
+- **Case Study Deep-Dives**: Detailed project explorations with scoped queries
+- **Free & Open Source**: Uses Hugging Face models and open-source tools (no API costs)
+
+### 🏗️ Project Structure
 
 ```
 Portfolio Site/
@@ -114,7 +124,7 @@ See `Plan.md` for detailed phase descriptions.
 ## 🧪 Testing API Endpoints
 
 ```bash
-# Test chat endpoint
+# Test chat endpointt
 curl -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
   -d '{"message": "Tell me about your projects"}'
