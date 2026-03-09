@@ -686,6 +686,8 @@ NEXT_PUBLIC_DEBUG=true npm run dev
 
 ---
 
+### Fork of @umar-ihsan's portfolio-site
+
 ## 📄 License
 
 MIT License - Feel free to use this template for your own portfolio!
